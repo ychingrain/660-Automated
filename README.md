@@ -1,2 +1,2 @@
 # 660-Automated
-Convert Temp 3 Times
+Convert Temperature from Farenheight to Celsius 3 Times
