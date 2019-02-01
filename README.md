@@ -1,2 +1,4 @@
 # 660-Automated
-Convert Temperature from Farenheight to Celsius
+This application converts any temperature from Farenheight to Celsius
+
+
